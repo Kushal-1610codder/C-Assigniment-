@@ -1,0 +1,28 @@
+Good morning or evening to everyone, we are Team Beast,i am kushal the presentater of my team,
+along with Haripeeth,Ruthvika,Kusma and Murali..
+
+we worked on a challenge that affects something we often take for granted—finding our way around a campus..
+
+Our project focuses on campus accessibility, specifically making the next accessible route clear and easy to understand.
+
+THE Challenge:the challenges faced by the new comers and visitor are when they enter the campus they wanted to go at some point but they are confused to find a clear accessiablity. 
+
+Way Finding:this becomes difficult when there are multiple buildings,paths and floors..different users have inforemation about the way but this infrmation should be passed to everyone.
+
+Accessibility:We Consider accessablity in 4 dimensions and they are > mobility, vision, hearing and information/language.
+
+Exiting slutions: for this our team has came across some solutions like campus maps,step free route signs,brile directions and digital navigations...
+
+Three way solution:for this we have a 3 way soln and they are smart sign ,hybrid signs,digital-first.
+
+Prototype:in our prototype we have clear physical signs,accessablity cue and QR digital layer...
+
+Six design rule :we use these 6 design rule to make the way finding better..like high contrast,short messages,familar icon,consistent terms,tactical opinon and no colour only clue...
+
+By following these the visitors and new comers can find their way to campus way easier... 
+
+we used the refrences like w3c and GOVT of India, along with tactical maps and accessiable routes.
+
+And lastly we thank Mr.Chandrashekar sir for giving us this opertunity to present our ppt.
+
+Thank You.
